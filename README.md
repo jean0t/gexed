@@ -5,7 +5,7 @@
 Simple graphical text editor in Go
 
 ## Instalation
-_Not avaiable to installation as it is a pre-alpha version_ ⚠
+_Not available to installation as it is a pre-alpha version_ ⚠
 
 ## Dependencies:
 - Fyne
